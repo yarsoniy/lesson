@@ -3,7 +3,7 @@
 
 $name = "Petya";
 $name2 = "Valera";
-echo "World Hello" . $name;
+echo "World Hello OLOLO" . $name;
 echo "Finish";
 echo "World Hello " . $name2;
 
