@@ -11,5 +11,5 @@ $user = array('Vasiliy', 'Popkin');
 $user2 = [
   'Ivan',
   'Petrov',
-  'Olegovych'
+  'Vasyliovuch'
 ];
