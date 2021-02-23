@@ -7,4 +7,4 @@ echo "Hello world" . $name;
 echo "Finish";
 echo "Hello world " . $name2;
 
-$user = array('Vasya', 'Pupkin');
+$user = array('Vasya', 'Popkin');
