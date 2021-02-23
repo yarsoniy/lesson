@@ -3,8 +3,8 @@
 
 $name = "Petya";
 $name2 = "Valera";
-echo "Hello world" . $name;
+echo "World Hello" . $name;
 echo "Finish";
-echo "Hello world " . $name2;
+echo "World Hello " . $name2;
 
 $user = array('Vasiliy', 'Popkin');
