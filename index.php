@@ -13,3 +13,9 @@ $user2 = [
   'Petrov',
   'Vasyliovuch'
 ];
+
+
+function helloWorld()
+{
+  echo "Hello world";
+}
