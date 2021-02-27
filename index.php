@@ -14,4 +14,10 @@ $user2 = [
   'Vasyliovuch'
 ];
 
-echo "Hello world!";
+
+function helloWorld()
+{
+  echo "Hello world";
+}
+
+helloWorld();
