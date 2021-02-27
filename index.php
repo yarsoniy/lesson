@@ -19,3 +19,5 @@ function helloWorld()
 {
   echo "Hello Sasha";
 }
+
+helloWorld();
