@@ -1,1 +1,1 @@
-# lesson for git
+# session for git
