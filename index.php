@@ -5,7 +5,7 @@ $name = "Petya";
 $name2 = "Valera";
 echo "Merry Christmass" . $name;
 echo "Finish";
-echo "World Hello " . $name2;
+echo "World Winter " . $name2;
 
 $user = array('Vasiliy', 'Popkin');
 $user2 = [
