@@ -7,7 +7,7 @@ echo "Merry Christmass" . $name;
 echo "Finish";
 echo "World Hello " . $name2;
 
-$user = array('Vasiliy', 'Popkin');
+$user = array('Vasiliy', 'Pupkin');
 $user2 = [
   'Ivan',
   'Petrov',
