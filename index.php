@@ -17,7 +17,7 @@ $user2 = [
 
 function helloWorld()
 {
-  echo "Hello world";
+  echo "Hello Vasia!";
 }
 
 helloWorld();
